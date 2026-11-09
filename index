@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>سجل التمارين — الخصوصية والدعم</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;600&display=swap" rel="stylesheet">
+<style>:root{color-scheme:light dark;--bg:#f6f7f8;--card:#fff;--ink:#1d252c;--muted:#5b6670;--accent:#2B3540}@media (prefers-color-scheme:dark){:root{--bg:#0D1115;--card:#161c22;--ink:#e8ecef;--muted:#9aa6b0;--accent:#8fb3d1}}body{margin:0;background:var(--bg);color:var(--ink);font-family:"IBM Plex Sans Arabic",system-ui,-apple-system,sans-serif;line-height:1.8}main{max-width:720px;margin:0 auto;padding:32px 16px}section{background:var(--card);border-radius:14px;padding:20px 22px;margin-bottom:16px}h1{font-size:1.6rem;margin:0 0 4px}h2{font-size:1.15rem;margin:0 0 8px}p,li{color:var(--muted)}a{color:var(--accent)}.en{direction:ltr;text-align:left}small{color:var(--muted)}nav{display:flex;gap:16px;margin:8px 0 24px}nav a{font-weight:600}h1.part{margin-top:40px;scroll-margin-top:16px}</style>
+</head>
+<body>
+<main>
+<h1>سجل التمارين</h1>
+<p>تطبيق لتسجيل التمارين ومتابعة التقدّم، يعمل بدون إنترنت.</p>
+<nav><a href="#privacy">سياسة الخصوصية</a><a href="#support">الدعم والتواصل</a></nav>
+
+<h1 class="part" id="privacy">سياسة الخصوصية</h1>
+<p><small>آخر تحديث: 9 نوفمبر 2026</small></p>
+
+<section>
+<h2>الخلاصة</h2>
+<p>التطبيق يعمل بالكامل بدون إنترنت. لا يجمع أي بيانات شخصية، ولا يرسل أي شيء إلى خوادم، ولا يحتوي على إعلانات أو أدوات تتبّع أو تحليلات، ولا يحتاج إلى حساب أو تسجيل دخول.</p>
+</section>
+
+<section>
+<h2>البيانات التي تُدخلها</h2>
+<p>التمارين والأوزان والجلسات وبيانات التغذية (العمر، الطول، الوزن، مستوى النشاط، الهدف) وسجل الوزن تُحفظ في قاعدة بيانات داخل جهازك فقط. لا يطّلع عليها مطوّر التطبيق ولا أي طرف آخر.</p>
+</section>
+
+<section>
+<h2>النسخ الاحتياطي والتصدير</h2>
+<p>عند تصدير نسخة احتياطية (JSON) أو ملف CSV، يُنشأ الملف على جهازك وتظهر قائمة المشاركة في النظام، وأنت من يختار أين يُرسَل أو يُحفظ. عند الاستيراد يقرأ التطبيق الملف الذي تختاره فقط.</p>
+</section>
+
+<section>
+<h2>الصلاحيات</h2>
+<p>لا يطلب التطبيق الوصول إلى الموقع أو الكاميرا أو جهات الاتصال أو الصور. منتقي الملفات يُستخدم فقط لاختيار ملف النسخة الاحتياطية.</p>
+</section>
+
+<section>
+<h2>حذف البيانات</h2>
+<p>حذف التطبيق من جهازك يحذف جميع بياناته نهائيًا. ننصحك بتصدير نسخة احتياطية قبل ذلك إن أردت الاحتفاظ بها.</p>
+</section>
+
+<section>
+<h2>تنبيه صحي</h2>
+<p>أرقام السعرات والبروتين والمغذيات تقديرات عامة مبنية على معادلات معروفة، وليست استشارة طبية. استشر طبيبًا أو أخصائي تغذية قبل أي تغيير كبير في نظامك الغذائي أو التدريبي.</p>
+</section>
+
+<section>
+<h2>الأطفال</h2>
+<p>لا يجمع التطبيق بيانات من أي مستخدم، بما في ذلك الأطفال.</p>
+</section>
+
+<section>
+<h2>التواصل</h2>
+<p>لأي سؤال عن هذه السياسة: <a href="mailto:najeeb@turkieshop.com">najeeb@turkieshop.com</a></p>
+</section>
+
+<section class="en" lang="en" dir="ltr">
+<h2>Privacy Policy (English)</h2>
+<p>Workout Log («سجل التمارين») works fully offline. It does not collect, store on any server, or share any personal data. There are no ads, analytics, tracking or accounts. Everything you enter (workouts, weights, nutrition profile, body-weight log) stays in a local database on your device. Backup/CSV export files are created on your device and sent only where you choose through the system share sheet. Deleting the app deletes all of its data. Nutrition figures are estimates, not medical advice.</p>
+<p>Contact: <a href="mailto:najeeb@turkieshop.com">najeeb@turkieshop.com</a></p>
+</section>
+
+<h1 class="part" id="support">الدعم والتواصل</h1>
+
+<section>
+<h2>تواصل معنا</h2>
+<p>للمشاكل أو الاقتراحات راسلنا على: <a href="mailto:najeeb@turkieshop.com">najeeb@turkieshop.com</a></p>
+</section>
+
+<section>
+<h2>أسئلة شائعة</h2>
+<p><strong>أين تُحفظ بياناتي؟</strong><br>على جهازك فقط، لا يوجد أي حفظ سحابي.</p>
+<p><strong>كيف أنقل بياناتي إلى جهاز جديد؟</strong><br>من الإعدادات ← النسخ الاحتياطي، صدّر ملف JSON ثم استورده في الجهاز الجديد.</p>
+<p><strong>هل أحتاج إلى إنترنت؟</strong><br>لا، التطبيق يعمل بالكامل بدون اتصال.</p>
+<p><strong>هل أرقام التغذية دقيقة؟</strong><br>هي تقديرات عامة وليست استشارة طبية.</p>
+</section>
+
+
+<section class="en" lang="en" dir="ltr">
+<h2>Support (English)</h2>
+<p>Questions or feedback: <a href="mailto:najeeb@turkieshop.com">najeeb@turkieshop.com</a></p>
+</section>
+</main>
+</body>
+</html>
